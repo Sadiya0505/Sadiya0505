@@ -83,15 +83,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadiya0505&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiya0505&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/sadiya-bairagdar-92487b328](http://www.linkedin.com/in/sadiya-bairagdar-92487b328)
